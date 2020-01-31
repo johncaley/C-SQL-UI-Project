@@ -1,0 +1,15 @@
+C:\Users\John\source\repos\TestDBDesktopApp1\bin\Debug\TestDBDesktopApp1.exe.config
+C:\Users\John\source\repos\TestDBDesktopApp1\bin\Debug\TestDBDesktopApp1.exe
+C:\Users\John\source\repos\TestDBDesktopApp1\bin\Debug\TestDBDesktopApp1.pdb
+C:\Users\John\source\repos\TestDBDesktopApp1\obj\Debug\TestDBDesktopApp1.csprojAssemblyReference.cache
+C:\Users\John\source\repos\TestDBDesktopApp1\obj\Debug\TestDBDesktopApp1.Properties.Resources.resources
+C:\Users\John\source\repos\TestDBDesktopApp1\obj\Debug\TestDBDesktopApp1.csproj.GenerateResource.cache
+C:\Users\John\source\repos\TestDBDesktopApp1\obj\Debug\TestDBDesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\TestDBDesktopApp1\obj\Debug\TestDBDesktopApp1.exe
+C:\Users\John\source\repos\TestDBDesktopApp1\obj\Debug\TestDBDesktopApp1.pdb
+C:\Users\John\source\repos\TestDBDesktopApp1\bin\Debug\aa-DJ\TestDBDesktopApp1.resources.dll
+C:\Users\John\source\repos\TestDBDesktopApp1\obj\Debug\TestDBDesktopApp1.Form1.resources
+C:\Users\John\source\repos\TestDBDesktopApp1\obj\Debug\TestDBDesktopApp1.Form1.aa-DJ.resources
+C:\Users\John\source\repos\TestDBDesktopApp1\obj\Debug\aa-DJ\TestDBDesktopApp1.resources.dll
+C:\Users\John\source\repos\TestDBDesktopApp1\obj\Debug\TestDBDesktopApp1.CreatePatient.resources
+C:\Users\John\source\repos\TestDBDesktopApp1\obj\Debug\TestDBDesktopApp1.UpdatePatient.resources
